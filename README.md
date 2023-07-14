@@ -43,9 +43,6 @@ const char* password =  "XXXXXXXX";
 #define SERVICE_PROTOCOL "udp"
 #define SERVICE_PORT 5600
 
-//String serverName = "DebianBusterLite.local";   // REPLACE WITH YOUR Raspberry Pi IP ADDRESS
-String serverName = "192.168.29.204";   // REPLACE WITH YOUR Raspberry Pi IP ADDRESS
-
 const int serverPort = 80;
 
 WiFiClient client;
