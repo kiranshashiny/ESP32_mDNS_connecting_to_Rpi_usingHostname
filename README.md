@@ -2,7 +2,10 @@
 
 
 In short:
-This code runs on ESP32, converts the hostname of the remote Raspberry Pi using the RPi's hostname and gets the IP address to connect to.
+This code runs on ESP32, converts the hostname of the remote Raspberry Pi using the RPi's hostname ( DebianBusterLite ) and gets the IP address ( 192.168.29.204) to connect to.
+
+
+As the IP addresses can change often, this code was used to resolve hostname to IP address.
 
 
 
