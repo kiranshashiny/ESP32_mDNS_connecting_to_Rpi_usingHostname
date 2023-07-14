@@ -1,6 +1,11 @@
 # ESP32_mDNS_connecting_to_Rpi_usingHostname
 
 
+In short:
+This code runs on ESP32, converts the hostname of the remote Raspberry Pi using the RPi's hostname and gets the IP address to connect to.
+
+
+
 Putting this code out here so that it will help when connecting the ESP32 to a remote Raspberry Pi when we only know the name of the Rpi on the local network.
 
 The test case is :
